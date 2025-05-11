@@ -351,7 +351,8 @@ Essas jornadas ajudam a entender como o UrbanExplorer pode atender às necessida
 
 https://emanoel2511.github.io/PI/
 
-Video:
+Video: [VIDEO PROJETO INTEGRADOR.webm](https://github.com/user-attachments/assets/b6f6107c-e362-4749-afca-737d6319a1ee)
+
 
 ![image](https://github.com/user-attachments/assets/f4967780-aa3f-49fe-aa89-b57e09bf434d)
 O UrbanExplorer é uma aplicação inovadora projetado para promover o turismo urbano e facilitar a exploração de cidades de pequeno, médio porte. Para garantir sua funcionalidade o projeto utiliza-se de linguagens HTML. CSS, PHP, JavaScript e para banco de dados MySQL. Ao selecionar a cidade que deseja visitar na imagem ou item de busca no final da página poderá ter uma visão geral da história do local, atrações, restaurantes, hotéis entre outros.
