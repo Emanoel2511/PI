@@ -122,8 +122,6 @@ CONSIDERAÇÕES FINAIS..........................................................
 REFERÊNCIA BIBLIOGRÁFICA....................................................................................29
 
  
-	
-
 
 INTRODUÇÃO
 O turismo desempenha um papel essencial na valorização cultural, econômica e social das cidades, independentemente de seu tamanho ou localização. No entanto, muitos destinos, especialmente em cidades de pequeno e médio porte, acabam sendo subestimados ou ignorados devido à falta de visibilidade e acesso à informação. Pensando nisso, surge a proposta de desenvolvimento de um aplicativo inovador, dedicado a conectar turistas e moradores locais a pontos turísticos, eventos, restaurantes, hotéis e outras atividades que enriquecem a experiência de exploração urbana.
@@ -135,29 +133,6 @@ Além disso, o fortalecimento do turismo estimulará a criação de empregos dir
 
 
 Por fim, o aplicativo poderá atrair investimentos para infraestrutura local, melhorar a qualidade de vida e criar um ciclo sustentável onde o turismo beneficia toda a comunidade. Dessa forma, a aplicação não apenas conectará turistas aos destinos, mas também atuará como uma ferramenta transformadora para os moradores locais.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -483,41 +458,10 @@ Para cenários mais robustos, a utilização de um banco de dados seria recomend
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 CONSIDERAÇÕES FINAIS
 Ao realizar este projeto, concluímos que ele é um elemento fundamental na análise e desenvolvimento de sistemas, pois ele define a melhor direção e o escopo do trabalho a ser realizado. Além disso, ao focar em dispositivos móveis e tecnologias web, conseguimos atingir um público maior, oferecendo soluções acessíveis e versáteis. 
 A integração de tecnologias móveis e baseadas na web é essencial para atender às necessidades modernas dos usuários, que demandam acesso a serviços e informações a qualquer momento e em qualquer lugar. Os sistemas desenvolvidos com foco em dispositivos móveis e web são naturalmente mais escaláveis e flexíveis, permitindo atualizações e melhorias contínuas sem a necessidade de grandes mudanças na infraestrutura. Além de mantermos a segurança dos dados dos usuários, que deve ser uma prioridade constante. 
 Em resumo, o desenvolvimento de sistemas orientado a dispositivos móveis e baseados na web representa uma oportunidade significativa para criar soluções tecnológicas eficientes, escaláveis e voltadas para o usuário. Ao adotar boas práticas e focar na inovação contínua, é possível entregar produtos de alta qualidade que atendam às necessidades e expectativas dos usuários modernos.
-
-
-
-
 
 
 
